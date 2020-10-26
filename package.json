@@ -1,0 +1,10 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rafaignaulin <rafael.ignaulin@unochapeco.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
